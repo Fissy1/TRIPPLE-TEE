@@ -1,4 +1,11 @@
+## Student Information
 
+Oluwafisayomi ISOLA
+ID: 22185897
+
+## Project Descripttion
+
+This project (Tripple TEE) is a confectionery store where people can buy different types of cakes and pastries product.
 
 ## Getting Started
 
@@ -7,30 +14,28 @@
 bash
 npm install
 "dependencies": {
-    "body-parser": "^1.20.2",
-    "dotenv": "^16.4.5",
-    "express-generator": "^4.16.1",
-    "express-session": "^1.18.0",
-    "express.js": "^1.0.0",
-    "mongoose": "^8.3.2",
-    "nodemon": "^3.1.0",
-    "uuid": "^9.0.1"
-  }
-
+"body-parser": "^1.20.2",
+"dotenv": "^16.4.5",
+"express-generator": "^4.16.1",
+"express-session": "^1.18.0",
+"express.js": "^1.0.0",
+"mongoose": "^8.3.2",
+"nodemon": "^3.1.0",
+"uuid": "^9.0.1"
+}
 
 [2] Run the development server:
 
 bash
 npm start
 
-
-[3] Open the link below in any browser of your choice 
+[3] Open the link below in any browser of your choice
 
 Open [http://localhost:3030](http://localhost:3030) with your browser to see the result.
 
 [4] Run the server on your local machine, to be able to signup, login and also to be redirected to the appropriate page after entering the user details to login
 
-[5] Checking out the cart saves the user firstname and order details to the database automatically. 
+[5] Checking out the cart saves the user firstname and order details to the database automatically.
 
 [6] On the sign up page, the user is expected to enter his correct email and password with every other required details which would be used for login and completing the user’s order. Every user is expected to ensure they enter the correct email and password that can be remembered because it will be required while login in.
 
